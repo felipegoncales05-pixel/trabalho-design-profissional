@@ -121,10 +121,10 @@ Atualmente, não possuo atuação relevante em plataformas como Medium ou Dev.to
 
 ### Feedback de Felipe Gonçales de Souza Moura
 
-- Qualidade dos perfis digitais:
-- Clareza do Plano de Carreira:
-- Coerência do PDI:
-- Sugestão de melhoria:
+- Qualidade dos perfis digitais: Os perfis ainda estão em desenvolvimento, mas já mostram bem o interesse pela área de tecnologia e mercado financeiro. Falta principalmente deixar o GitHub mais completo com projetos e descrições.
+- Clareza do Plano de Carreira: O plano está bem claro e organizado, mostrando objetivos de curto, médio e longo prazo de uma forma facil de entender.
+- Coerência do PDI: O PDI está coerente com o plano de carreira e possui metas que fazem sentido para quem quer seguir na área de Engenharia de Dados.
+- Sugestão de melhoria: Poderia deixar algumas metas um pouco mais específicas e tentar aumentar a atividade no GitHub e LinkedIn para mostrar melhor a evolução profissional.
 
 ### Feedback de Luan Henrique Ribeiro de Albuquerque
 
