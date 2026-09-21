@@ -83,19 +83,19 @@ O mercado de Engenharia de Dados tem oportunidades, mas existe uma diferença en
 
 As principais dificuldades são:
 
-1. Vagas que exigem experiência
+## 1. Vagas que exigem experiência
 
 Mesmo algumas vagas Júnior podem pedir experiência com ferramentas que você ainda não teve oportunidade de utilizar profissionalmente.
 
-2. Exigência de várias tecnologias
+## 2. Exigência de várias tecnologias
 
 Uma vaga pode exigir SQL, Python, cloud, ferramentas de ETL e conhecimentos de arquitetura de dados.
 
-3. Concorrência nas vagas de entrada
+## 3. Concorrência nas vagas de entrada
 
 Você pode disputar uma oportunidade com candidatos que já possuem projetos, estágios ou experiência em outras funções de TI.
 
-4. Falta de experiência prática
+## 4. Falta de experiência prática
 
 Saber explicar o que é um banco de dados é diferente de conseguir desenvolver um pipeline funcional, tratar erros e organizar um projeto.
 
@@ -109,3 +109,222 @@ Saber explicar o que é um banco de dados é diferente de conseguir desenvolver 
 | Telecomunicações    | Tráfego, utilização de serviços e informações de clientes.            |
 | Indústria           | Produção, sensores, manutenção e controle de qualidade.               |
 | Consultorias de TI  | Desenvolvimento e modernização de plataformas de dados para clientes. |
+
+## 5. Vagas
+
+__## Data Engineer II__
+A gente acredita no poder da confiança. Confiança que aproxima, orienta e transforma a vida das pessoas no dia a dia. Entrar no Bradesco é fazer parte de um momento real de transformação. Um ambiente que combina a solidez de uma história construída ao longo de décadas com a evolução constante de quem está sempre olhando para frente. Aqui, você encontra espaço para aprender, crescer e assumir protagonismo na sua trajetória, com apoio, estrutura e oportunidades que acompanham o seu desenvolvimento. Mais do que trabalhar em uma grande instituição, é sobre fazer parte de um time que impacta milhões de pessoas, contribui para o desenvolvimento do país e constrói, todos os dias, um futuro mais acessível e sustentável para a sociedade.
+Sobre a área
+Inteligência de Dados: Atua na análise e uso estratégico de dados para apoiar a tomada de decisão em diferentes frentes do banco. Desenvolve modelos analíticos, estudos e insights que orientam estratégias, produtos e jornadas de clientes. Contribui para a eficiência operacional, a inovação e a evolução de uma cultura orientada a dados, impulsionando decisões mais assertivas e escaláveis.
+
+Como será seu dia a dia?
+Como Data Engineer II, você atuará na área de Business
+Unit e suas principais atividades serão:
+• Desenvolver e manter pipelines de ingestão, transformação e integração de dados.
+• Atuar na identificação e entendimento das necesidades das áreas de negócio.
+• Mapear fluxos de dados e desenhar soluções para disponibilização de informações.
+• Trabalhar com processamento e tratamento de dados em ambientes Big Data e Cloud.
+• Construir processos utilizando SQL, Python e plataformas de dados homologadas.
+Apoiar análises, estudos e iniciativas voltadas à
+Ouvidoria e áreas parceiras.
+Atuar em conjunto com cientistas de dados, analistas e stakeholders de negócio.
+
+__## Engenheiro de Dados Sr.__
+Sobre a vaga
+Responsabilidades e atribuições
+• Definir, evoluir e sustentar a arquitetura de dados
+(Data Lake / Data Warehouse / Lakehouse) e o desenho em camadas (Medallion), garantindo padrões de governança, segurança, qualidade e confiabilidade.
+Projetar e implementar pipelines de dados (ETL/ ELT) em batch e streaming, integrando múltiplas fontes (APls, bancos, eventos e arquivos) com foco em performance, monitoramento e observabilidade.
+Atuar de forma protagonista na entrega da camada analítica conectando integração/refino
+(Silver) a produtos de dados reutilizáveis para negócio, analytics e ciência de dados.
+Desenvolver e evoluir transformações com dt, priorizando código modular, versionado, testável e documentado (incluindo macros e modelos incrementais quando aplicável).
+• Implementar Data Contracts, testes automatizados e práticas que reduzam rupturas em consumo downstream (dashboards, datasets e aplicações) por mudanças inesperadas na origem.
+
+Requisitos e qualificações
+• Experiência sólida como Engenheiro(a) de Dados
+Sênior em plataformas e pipelines de dados em ambiente corporativo.
+Experiência pratica com Databricks em AWS, incluindo desenvolvimento, operação e monitoramento de notebooks, jobs, workflows e pipelines de dados.
+Domínio de SQL, Python e PySpark/Spark, com capacidade de escrever consultas performáticas e desenvolver transformações complexas para processamento e análise de dados.
+Experiência com arquitetura Lakehouse, Delta Lake e arquitetura Medallion (Bronze/Silver/Gold), incluindo processamento incremental, evolução de schema e otimização de performance.
+Conhecimento dos principais serviços AWS utilizados em plataformas de dados, especialmente Amazon S3, IAM e AWS Glue, incluindo desenho e operação em nuvem.
+Experiência com ingestão e orquestração de dados em batch, incremental e streaming, incluindo CDC e uso de Databricks Workflows/ Lakeflow Jobs ou ferramentas equivalentes.
+
+__## Data Engineer (AWS, Redshift & Spark)__
+Sobre a vaga
+Sabemos que carreiras podem ser tão diferentes quanto as próprias pessoas. Por isso, na EY, você terá a liberdade, as ferramentas e as condições para se desenvolver e construir uma carreira tão única quanto você.
+Em Tech Financial Services (Tech FSO), estamos construindo um mundo de negócios melhor apoiando as necessidades e desafios tecnológicos dos nossos clientes do segmento financeiro (Mercado de Capitais, Bancos, Fintechs, Seguros e Gestão de Ativos).
+Entregamos soluções sob medida com base nas necessidades específicas de cada negócio, a partir de uma equipe multidisciplinar de especialistas com diferentes perfis, como especialistas em Dados, UX, até analistas de negócios e scrum masters.
+
+Qual será o seu papel nesse propósito?
+Como Data Engineer, você irá atuar em cliente de grande porte em projeto internacional, com oportunidade de crescimento em frentes diversas para o segmento financeiro. Você poderá contar com ferramentas, conhecimentos e oportunidades para avançar e estar pronto/a para construir um mundo de negócios melhor para nossas pessoas, clientes e as comunidades que nos apoiam.
+
+Se você possui os requisitos abaixo, essa oportunidade pode ser sua:
+• Graduação em Sistemas de Informação, Ciência da Computação, Engenharia de Dados ou área relacionada;
+• Inglês Avançado/Fluente - C2 (haverá contato com cliente internacional);
+• Experiência comprovada com desenvolvimento
+AWS com foco em Glue, Spark e Redshift;
+• Proficiência em linguagens de programação como Python ou Scala para processamento de dados;
+• Forte entendimento dos conceitos e melhores práticas de data warehousing;
+• Experiência com SQL e sistemas de gerenciamento de banco de dados é necessária.
+
+# 4. Conclusão — Análise de Gaps e Plano de Ação
+
+## 4.1 Análise Conjunta
+
+A análise dos perfis profissionais dos integrantes demonstra que o grupo
+se encontra, em sua maioria, em uma etapa inicial de construção da carreira
+na área de Tecnologia da Informação, com interesse principal em Engenharia
+de Dados e áreas relacionadas.
+
+Os perfis analisados apresentam diferentes níveis de desenvolvimento.
+Alguns integrantes já possuem projetos publicados e utilizam plataformas
+como GitHub e LinkedIn como parte de sua presença profissional, enquanto
+outros ainda estão iniciando a construção de seus portfólios e redes.
+
+Felipe Gonçales de Souza Moura possui conhecimentos em desenvolvimento com
+Python, SQL, Banco de Dados e Git, além de já utilizar o GitHub para um
+projeto pessoal. Seu objetivo profissional está diretamente relacionado
+à Engenharia de Dados, com interesse em desenvolver conhecimentos em ETL,
+pipelines de dados, computação em nuvem e Data Warehouses.
+
+Eduardo Prates Garcia também apresenta como objetivo ingressar em Engenharia
+de Dados, com interesse adicional no mercado financeiro. Seu planejamento
+inclui o desenvolvimento de Python, SQL, Banco de Dados, ETL e computação
+em nuvem, além da criação de projetos que relacionem tecnologia, dados
+e mercado financeiro.
+
+Thiago Nielsen dos Santos apresenta uma trajetória voltada atualmente ao
+desenvolvimento de sistemas e programação. Seu perfil demonstra conhecimentos
+iniciais em Python, Banco de Dados, HTML e CSS, além de experiência profissional
+na área administrativa, que contribui para competências como organização,
+responsabilidade, comunicação e trabalho em equipe.
+
+Apesar de seu objetivo atual estar mais relacionado ao desenvolvimento de
+sistemas, várias das competências que pretende desenvolver, principalmente
+Python, Banco de Dados, GitHub e criação de projetos, também podem contribuir
+para uma futura atuação relacionada à área de dados.
+
+Arthur Costa de Paula possui um perfil recente no GitHub e ainda não apresenta
+projetos públicos. Entretanto, pretende utilizar a plataforma para futuros
+projetos acadêmicos, profissionais e pessoais, podendo transformá-la
+gradualmente em um portfólio técnico.
+
+De forma geral, o grupo apresenta como característica comum o fato de ainda
+estar em processo de formação acadêmica e construção de experiência prática.
+Por esse motivo, os principais objetivos identificados envolvem aprofundamento
+técnico, criação de projetos, desenvolvimento de portfólio e conquista das
+primeiras oportunidades profissionais na área de tecnologia.
+
+
+## 4.2 Comparação com o Mercado
+
+A pesquisa realizada sobre Engenharia de Dados demonstra que o mercado exige
+uma combinação de conhecimentos técnicos, experiência prática e capacidade
+de trabalhar com diferentes etapas do ciclo de dados.
+
+Em posições iniciais, como estágio, análise de dados ou Engenharia de Dados
+Júnior, aparecem atividades relacionadas à organização, tratamento e consulta
+de dados, utilização de bancos de dados e desenvolvimento de processos
+responsáveis pelo fluxo das informações.
+
+Conforme o profissional evolui para posições de nível pleno e sênior,
+as responsabilidades passam a incluir desenvolvimento de soluções mais
+complexas, administração de fluxos de dados, arquitetura, desempenho,
+confiabilidade e decisões técnicas.
+
+Ao comparar essas exigências com os perfis dos integrantes, percebe-se que
+algumas competências fundamentais já começaram a ser desenvolvidas,
+principalmente Python, Banco de Dados, SQL e Git.
+
+Entretanto, o grupo ainda possui pouca experiência prática com ferramentas
+e conceitos específicos de Engenharia de Dados, especialmente ETL, pipelines,
+computação em nuvem, armazenamento de grandes volumes de dados e construção
+de arquiteturas de dados.
+
+Também foi possível observar que a maioria dos integrantes ainda possui
+um portfólio técnico pequeno ou em estágio inicial. Dessa forma, embora
+os conhecimentos acadêmicos representem uma base importante, ainda existe
+uma distância entre a situação atual do grupo e as exigências encontradas
+em oportunidades profissionais da área.
+
+
+## 4.3 Identificação de Gaps
+
+A comparação entre os perfis individuais e as exigências observadas no mercado
+permitiu identificar alguns gaps comuns entre os integrantes.
+
+Um dos principais pontos é a falta de experiência prática. Grande parte do
+grupo ainda possui poucos projetos públicos ou está iniciando a utilização
+do GitHub como portfólio profissional.
+
+Também existe a necessidade de aprofundar conhecimentos técnicos diretamente
+relacionados à Engenharia de Dados. Embora Python, SQL e Banco de Dados estejam
+presentes nos planos de desenvolvimento, conhecimentos sobre ETL, pipelines
+de dados, computação em nuvem e arquitetura de dados ainda precisam ser
+desenvolvidos ou aprofundados.
+
+Outro gap está relacionado à presença profissional nas plataformas digitais.
+LinkedIn e GitHub ainda apresentam redes pequenas, baixa frequência de
+publicações ou poucos projetos disponíveis para demonstrar as habilidades
+dos integrantes.
+
+### Principais gaps identificados
+
+- Pouca experiência prática em projetos de Engenharia de Dados;
+- Portfólios ainda pequenos ou em processo de construção;
+- Necessidade de aprofundamento em Python, SQL e Banco de Dados;
+- Pouca ou nenhuma experiência prática com ETL;
+- Pouca experiência com desenvolvimento de pipelines de dados;
+- Conhecimentos iniciais ou inexistentes em computação em nuvem;
+- Necessidade de maior atividade profissional no GitHub e LinkedIn;
+- Falta de experiência profissional diretamente relacionada à área de dados.
+
+Também existem diferenças nos objetivos profissionais individuais. Enquanto
+Felipe e Eduardo demonstram direcionamento claro para Engenharia de Dados,
+Thiago apresenta atualmente maior interesse em desenvolvimento de sistemas.
+Por isso, será importante buscar pontos de integração entre seu desenvolvimento
+técnico e a área escolhida pelo grupo.
+
+
+## 4.4 Plano de Ação
+
+A partir dos gaps identificados, o grupo definiu ações que podem contribuir
+para aproximar os perfis atuais das competências exigidas pelo mercado.
+
+| Integrante | Gap principal | Ação proposta | Prazo | Indicador |
+|---|---|---|---|---|
+| Felipe | Pouca experiência prática em Engenharia de Dados | Desenvolver projetos utilizando Python, SQL, ETL e pipelines de dados | 6 a 12 meses | Publicar pelo menos 4 projetos documentados no GitHub |
+| Felipe | Conhecimentos iniciais em cloud | Estudar fundamentos de uma plataforma de computação em nuvem e aplicá-los em um projeto | 12 meses | Publicar pelo menos 1 projeto utilizando cloud |
+| Eduardo | GitHub e portfólio ainda em desenvolvimento | Criar README, documentar repositórios e desenvolver projetos relacionados a dados | 6 meses | Possuir pelo menos 2 repositórios completos |
+| Eduardo | Conhecimentos iniciais em Engenharia de Dados | Desenvolver Python, SQL, ETL e Cloud por meio de cursos e projetos | 12 meses | Publicar projetos utilizando essas tecnologias |
+| Eduardo | Interesse em dados e mercado financeiro | Criar projeto utilizando dados públicos relacionados a finanças | 12 meses | Ter pelo menos 1 projeto de dados aplicado ao mercado financeiro |
+| Thiago | GitHub sem projetos públicos | Publicar projetos acadêmicos e pessoais durante a graduação | 6 a 12 meses | Publicar pelo menos 4 projetos |
+| Thiago | Pouca experiência profissional em tecnologia | Buscar estágios e vagas de entrada na área | 6 a 12 meses | Enviar pelo menos 2 candidaturas por mês e participar de processos seletivos |
+| Thiago | Direcionamento profissional ainda amplo | Explorar projetos envolvendo programação, Python e Banco de Dados para identificar áreas de maior interesse | 12 meses | Desenvolver projetos em diferentes áreas e registrar sua evolução |
+| Arthur | GitHub recém-criado e sem projetos | Utilizar o GitHub para publicar projetos acadêmicos e pessoais | 6 a 12 meses | Criar os primeiros repositórios e manter atividade regular |
+| Arthur | Portfólio profissional inexistente | Documentar os projetos desenvolvidos e utilizar o perfil como portfólio | 12 meses | Possuir projetos públicos com README e descrição |
+
+Além das ações individuais, o grupo pode desenvolver projetos colaborativos.
+Essa estratégia permitiria praticar Git e GitHub, programação, Banco de Dados
+e organização de projetos, ao mesmo tempo em que contribuiria para o portfólio
+de todos os participantes.
+
+Uma possibilidade seria desenvolver um projeto simples de Engenharia de Dados
+utilizando uma fonte pública de informações. O projeto poderia envolver coleta,
+armazenamento, tratamento e consulta dos dados, permitindo que diferentes
+integrantes atuassem em etapas diferentes do processo.
+
+Dessa forma, o desenvolvimento profissional do grupo não ficaria limitado ao
+estudo teórico. Os conhecimentos adquiridos durante a graduação e em cursos
+complementares poderiam ser demonstrados por meio de projetos reais e
+mensuráveis.
+
+A análise realizada demonstra que os integrantes ainda estão em uma etapa
+inicial de suas trajetórias profissionais, porém possuem objetivos de evolução
+que podem ser transformados em ações concretas.
+
+A construção de portfólio, o aprofundamento das competências técnicas,
+o desenvolvimento da presença profissional nas plataformas digitais e a
+busca por experiência prática representam os principais caminhos para reduzir
+a distância entre a situação atual do grupo e as competências exigidas pelo
+mercado de Engenharia de Dados.
