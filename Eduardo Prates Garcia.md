@@ -126,7 +126,14 @@ Atualmente, não possuo atuação relevante em plataformas como Medium ou Dev.to
 - Coerência do PDI:
 - Sugestão de melhoria:
 
-### Feedback de Thiago Nielson dos Santos
+### Feedback de Luan Henrique Ribeiro de Albuquerque
+
+- Qualidade dos perfis digitais:
+- Clareza do Plano de Carreira:
+- Coerência do PDI:
+- Sugestão de melhoria:
+
+### Feedback de Thiago Nielsen dos Santos
 
 - Qualidade dos perfis digitais:
 - Clareza do Plano de Carreira:
