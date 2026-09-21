@@ -83,19 +83,19 @@ O mercado de Engenharia de Dados tem oportunidades, mas existe uma diferença en
 
 As principais dificuldades são:
 
-1. Vagas que exigem experiência
+## 1. Vagas que exigem experiência
 
 Mesmo algumas vagas Júnior podem pedir experiência com ferramentas que você ainda não teve oportunidade de utilizar profissionalmente.
 
-2. Exigência de várias tecnologias
+## 2. Exigência de várias tecnologias
 
 Uma vaga pode exigir SQL, Python, cloud, ferramentas de ETL e conhecimentos de arquitetura de dados.
 
-3. Concorrência nas vagas de entrada
+## 3. Concorrência nas vagas de entrada
 
 Você pode disputar uma oportunidade com candidatos que já possuem projetos, estágios ou experiência em outras funções de TI.
 
-4. Falta de experiência prática
+## 4. Falta de experiência prática
 
 Saber explicar o que é um banco de dados é diferente de conseguir desenvolver um pipeline funcional, tratar erros e organizar um projeto.
 
@@ -109,3 +109,60 @@ Saber explicar o que é um banco de dados é diferente de conseguir desenvolver 
 | Telecomunicações    | Tráfego, utilização de serviços e informações de clientes.            |
 | Indústria           | Produção, sensores, manutenção e controle de qualidade.               |
 | Consultorias de TI  | Desenvolvimento e modernização de plataformas de dados para clientes. |
+
+## 5. Vagas
+
+__## Data Engineer II__
+A gente acredita no poder da confiança. Confiança que aproxima, orienta e transforma a vida das pessoas no dia a dia. Entrar no Bradesco é fazer parte de um momento real de transformação. Um ambiente que combina a solidez de uma história construída ao longo de décadas com a evolução constante de quem está sempre olhando para frente. Aqui, você encontra espaço para aprender, crescer e assumir protagonismo na sua trajetória, com apoio, estrutura e oportunidades que acompanham o seu desenvolvimento. Mais do que trabalhar em uma grande instituição, é sobre fazer parte de um time que impacta milhões de pessoas, contribui para o desenvolvimento do país e constrói, todos os dias, um futuro mais acessível e sustentável para a sociedade.
+Sobre a área
+Inteligência de Dados: Atua na análise e uso estratégico de dados para apoiar a tomada de decisão em diferentes frentes do banco. Desenvolve modelos analíticos, estudos e insights que orientam estratégias, produtos e jornadas de clientes. Contribui para a eficiência operacional, a inovação e a evolução de uma cultura orientada a dados, impulsionando decisões mais assertivas e escaláveis.
+
+Como será seu dia a dia?
+Como Data Engineer II, você atuará na área de Business
+Unit e suas principais atividades serão:
+• Desenvolver e manter pipelines de ingestão, transformação e integração de dados.
+• Atuar na identificação e entendimento das necesidades das áreas de negócio.
+• Mapear fluxos de dados e desenhar soluções para disponibilização de informações.
+• Trabalhar com processamento e tratamento de dados em ambientes Big Data e Cloud.
+• Construir processos utilizando SQL, Python e plataformas de dados homologadas.
+Apoiar análises, estudos e iniciativas voltadas à
+Ouvidoria e áreas parceiras.
+Atuar em conjunto com cientistas de dados, analistas e stakeholders de negócio.
+
+__## Engenheiro de Dados Sr.__
+Sobre a vaga
+Responsabilidades e atribuições
+• Definir, evoluir e sustentar a arquitetura de dados
+(Data Lake / Data Warehouse / Lakehouse) e o desenho em camadas (Medallion), garantindo padrões de governança, segurança, qualidade e confiabilidade.
+Projetar e implementar pipelines de dados (ETL/ ELT) em batch e streaming, integrando múltiplas fontes (APls, bancos, eventos e arquivos) com foco em performance, monitoramento e observabilidade.
+Atuar de forma protagonista na entrega da camada analítica conectando integração/refino
+(Silver) a produtos de dados reutilizáveis para negócio, analytics e ciência de dados.
+Desenvolver e evoluir transformações com dt, priorizando código modular, versionado, testável e documentado (incluindo macros e modelos incrementais quando aplicável).
+• Implementar Data Contracts, testes automatizados e práticas que reduzam rupturas em consumo downstream (dashboards, datasets e aplicações) por mudanças inesperadas na origem.
+
+Requisitos e qualificações
+• Experiência sólida como Engenheiro(a) de Dados
+Sênior em plataformas e pipelines de dados em ambiente corporativo.
+Experiência pratica com Databricks em AWS, incluindo desenvolvimento, operação e monitoramento de notebooks, jobs, workflows e pipelines de dados.
+Domínio de SQL, Python e PySpark/Spark, com capacidade de escrever consultas performáticas e desenvolver transformações complexas para processamento e análise de dados.
+Experiência com arquitetura Lakehouse, Delta Lake e arquitetura Medallion (Bronze/Silver/Gold), incluindo processamento incremental, evolução de schema e otimização de performance.
+Conhecimento dos principais serviços AWS utilizados em plataformas de dados, especialmente Amazon S3, IAM e AWS Glue, incluindo desenho e operação em nuvem.
+Experiência com ingestão e orquestração de dados em batch, incremental e streaming, incluindo CDC e uso de Databricks Workflows/ Lakeflow Jobs ou ferramentas equivalentes.
+
+__## Data Engineer (AWS, Redshift & Spark)__
+Sobre a vaga
+Sabemos que carreiras podem ser tão diferentes quanto as próprias pessoas. Por isso, na EY, você terá a liberdade, as ferramentas e as condições para se desenvolver e construir uma carreira tão única quanto você.
+Em Tech Financial Services (Tech FSO), estamos construindo um mundo de negócios melhor apoiando as necessidades e desafios tecnológicos dos nossos clientes do segmento financeiro (Mercado de Capitais, Bancos, Fintechs, Seguros e Gestão de Ativos).
+Entregamos soluções sob medida com base nas necessidades específicas de cada negócio, a partir de uma equipe multidisciplinar de especialistas com diferentes perfis, como especialistas em Dados, UX, até analistas de negócios e scrum masters.
+
+Qual será o seu papel nesse propósito?
+Como Data Engineer, você irá atuar em cliente de grande porte em projeto internacional, com oportunidade de crescimento em frentes diversas para o segmento financeiro. Você poderá contar com ferramentas, conhecimentos e oportunidades para avançar e estar pronto/a para construir um mundo de negócios melhor para nossas pessoas, clientes e as comunidades que nos apoiam.
+
+Se você possui os requisitos abaixo, essa oportunidade pode ser sua:
+• Graduação em Sistemas de Informação, Ciência da Computação, Engenharia de Dados ou área relacionada;
+• Inglês Avançado/Fluente - C2 (haverá contato com cliente internacional);
+• Experiência comprovada com desenvolvimento
+AWS com foco em Glue, Spark e Redshift;
+• Proficiência em linguagens de programação como Python ou Scala para processamento de dados;
+• Forte entendimento dos conceitos e melhores práticas de data warehousing;
+• Experiência com SQL e sistemas de gerenciamento de banco de dados é necessária.
